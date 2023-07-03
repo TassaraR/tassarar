@@ -57,6 +57,3 @@ I'm currently working as a **Machine Learning Engineer** at **Walmart** in the t
 ![Static Badge](https://img.shields.io/badge/-neovim-gray?style=flat&logo=neovim&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-docker-gray?style=flat&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Kubernetes-gray?style=flat&logo=kubernetes&logoColor=white)
-
-
-
