@@ -4,20 +4,7 @@ Hello! My name is **Renzo Tassara**. I'm an **Industrial Engineer** with a **MS 
 
 I'm currently working as a **Machine Learning Engineer** at **Walmart** in the team in charge of **productionizing** almost all **ML models** of my country's branch.
 
-### 👀 More about me
-
-- Machine Learning and data science enthusiast.
-- I Have **MS degree in Artificial intelligence** and a **BS degree in Industrial Engineering** with a **Minor degree in IT**.
-- I can't live without constantly **learning new things**, so I'm always looking for new courses, books, etc.
-- I enjoy trying to solve **leetcode** and **programming challenges** frequently.
-- I love **hiking & camping**.
-- I play **drums** and a bit of **guitar** and **bass**.
-- I greatly enjoy taking photos, specially **landscape photography** and **astrophotography**.
-- I practice **calisthenics** daily.
-- Trying to learn **Go** and **Rust** in my spare time.
-- I speak both **spanish** and **english** fluently.
-
-### 🔧 Tech stack
+### 🔧 (Some) Tech stack
 
 **Programming Languages**
 
